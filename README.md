@@ -6,14 +6,6 @@
 - Estudante de Análise e desenvolvimento de sistema na UNICEUB
 - Tenho 19 anos
 - Sonho em ser engenheiro de software/desenvolvedor
-- ## Códigos Acadêmicos
-
-- [Saudação (greeting.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/greeting.js)
-- [Calculadora (calculator.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/calculator.js)
-- [Conversor (converter.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/converter.js)
-- [Utilitários de String (stringUtils.js)](academicos/academicos/projeto-js-inicial/academicos/projeto-js-inicial/stringUtils.js)
-
-
 ### 🤖 Linguagens 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
